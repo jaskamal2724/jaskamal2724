@@ -2,7 +2,7 @@
 
 **Full-Stack Engineer** focused on React/Next.js, TypeScript, and AI-powered web products.
 
-I build end-to-end web applications — from Figma handoff to Vercel deployment. Currently running [Logiquel](https://logiquel.com), a software agency where I've shipped production apps across healthcare, education, and hospitality.
+I build end-to-end web applications — from Figma handoff to Vercel deployment. Currently working at [Logiquel](https://logiquel.com), a software agency where I've contributed in shipping production apps across healthcare, education, and hospitality domains.
 
 ---
 
